@@ -1,4 +1,4 @@
 # Hello-Quest
-- Map loading and traversing
-- PC movement and map checks
+<s>- Map loading and traversing</s>
+<s>- PC movement and map checks</s>
 - Quests
